@@ -19,7 +19,7 @@
 
 **I build things that don't exist yet.**
 
-Full-stack web, robotics, AI/ML, cybersecurity — I won't specialize too early. Each domain is a different angle on the same mission: turning ideas into working systems that solve real problems. Currently a student, permanently curious, always shipping.
+Full-stack web, robotics, AI/ML, cybersecurity, I won't specialize too early. Each domain is a different angle on the same mission: turning ideas into working systems that solve real problems. Currently a student, permanently curious, always shipping.
 
 ```json
 {
